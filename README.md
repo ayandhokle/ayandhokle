@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayan Dhokle</h1>
-<h3 align="center">An Electronic and Telecommunication Engineer from India</h3>
+<h3 align="center">An Electronic and Telecommunication Engineer from India, learning and understanding Network Security</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayandhokle&label=Profile%20views&color=0e75b6&style=flat" alt="ayandhokle" /> </p>
 
